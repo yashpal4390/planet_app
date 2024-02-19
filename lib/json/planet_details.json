@@ -1,0 +1,110 @@
+[
+  {
+    "position": "0",
+    "name": "Sun",
+    "type": "Planet",
+    "radius": "696,340 km",
+    "orbital_period": "230 million years",
+    "gravity": "274 m/s²",
+    "velocity": "220 km/s",
+    "distance": "0 million Km",
+    "description": "The Sun (or Sol), is the star at the centre of our solar system and is responsible for the Earth’s climate and weather. The Sun is an almost perfect sphere with a difference of just 10km in diameter between the poles and the equator. The average radius of the Sun is 695,508 km (109.2 x that of the Earth) of which 20–25% is the core.",
+    "image": "assets/images/sun.png"
+  },
+  {
+    "position": "1",
+    "name": "Mercury",
+    "type": "Planet",
+    "radius": "2,439.7 km",
+    "orbital_period": "88 days",
+    "gravity": "3.7 m/s²",
+    "velocity": "47 km/s",
+    "distance": "58 million Km",
+    "description": "Mercury is the closest planet to the Sun and due to its proximity it is not easily seen except during twilight. For every two orbits of the Sun, Mercury completes three rotations about its axis and up until 1965 it was thought that the same side of Mercury constantly faced the Sun. Thirteen times a century Mercury can be observed from the Earth passing across the face of the Sun in an event called a transit, the next will occur on the 9th May 2016.",
+    "image": "assets/images/mercury.png"
+  },
+  {
+    "position": "2",
+    "name": "Venus",
+    "type": "Planet",
+    "radius": "6,051.8 km",
+    "orbital_period": "225 days",
+    "gravity": "8.87 m/s²",
+    "velocity": "35 km/s",
+    "distance": "108.2 million Km",
+    "description": "Venus is the second planet from the Sun and is the second brightest object in the night sky after the Moon. Named after the Roman goddess of love and beauty, Venus is the second largest terrestrial planet and is sometimes referred to as the Earth’s sister planet due the their similar size and mass. The surface of the planet is obscured by an opaque layer of clouds made up of sulphuric acid.",
+    "image": "assets/images/venus.png"
+  },
+  {
+    "position": "3",
+    "name": "Earth",
+    "type": "Planet",
+    "radius": "6,371 km",
+    "orbital_period": "365 days",
+    "gravity": "9.8 m/s²",
+    "velocity": "29 km/s",
+    "distance": "149.6 million Km",
+    "description": "Earth is the third planet from the Sun and is the largest of the terrestrial planets. The Earth is the only planet in our solar system not to be named after a Greek or Roman deity. The Earth was formed approximately 4.54 billion years ago and is the only known planet to support life.",
+    "image": "assets/images/earth.png"
+  },
+  {
+    "position": "4",
+    "name": "Mars",
+    "type": "Planet",
+    "radius": "3,389.5 km",
+    "orbital_period": "687 days",
+    "gravity": "3.71 m/s²",
+    "velocity": "24 km/s",
+    "distance": "227.9 million Km",
+    "description": "Mars is the fourth planet from the Sun and is the second smallest planet in the solar system. Named after the Roman god of war, Mars is also often described as the “Red Planet” due to its reddish appearance. Mars is a terrestrial planet with a thin atmosphere composed primarily of carbon dioxide.",
+    "image": "assets/images/mars.png"
+  },
+  {
+    "position": "5",
+    "name": "Jupiter",
+    "type": "Planet",
+    "radius": "69,911 km",
+    "orbital_period": "12 years",
+    "gravity": "24.79 m/s²",
+    "velocity": "13 km/s",
+    "distance": "778.5 million Km",
+    "description": "The planet Jupiter is the fifth planet out from the Sun, and is two and a half times more massive than all the other planets in the solar system combined. It is made primarily of gases and is therefore known as a “gas giant”.",
+    "image": "assets/images/jupiter.png"
+  },
+  {
+    "position": "6",
+    "name": "Saturn",
+    "type": "Planet",
+    "radius": "58,232 km",
+    "orbital_period": "29 years",
+    "gravity": "10.44 m/s²",
+    "velocity": "9 km/s",
+    "distance": "1434 million Km",
+    "description": "Saturn is the sixth planet from the Sun and the most distant that can be seen with the naked eye. Saturn is the second largest planet and is best known for its fabulous ring system that was first observed in 1610 by the astronomer Galileo Galilei. Like Jupiter, Saturn is a gas giant and is composed of similar gasses including hydrogen, helium and methane.",
+    "image": "assets/images/saturn.png"
+  },
+  {
+    "position": "7",
+    "name": "Uranus",
+    "type": "Planet",
+    "radius": "25,362 km",
+    "orbital_period": "84 years",
+    "gravity": "8.87 m/s²",
+    "velocity": "6 km/s",
+    "distance": "2871 million Km",
+    "description": "Uranus is the seventh planet from the Sun. While being visible to the naked eye, it was not recognised as a planet due to its dimness and slow orbit. Uranus became the first planet discovered with the use of a telescope. Uranus is tipped over on its side with an axial tilt of 98 degrees. It is often described as “rolling around the Sun on its side.”",
+    "image": "assets/images/uranus.png"
+  },
+  {
+    "position": "8",
+    "name": "Neptune",
+    "type": "Planet",
+    "radius": "24,622 km",
+    "orbital_period": "165 years",
+    "gravity": "11.15 m/s²",
+    "velocity": "5 km/s",
+    "distance": "4495 million Km",
+    "description": "Neptune is the eighth planet from the Sun making it the most distant in the solar system. This gas giant planet may have formed much closer to the Sun in early solar system history before migrating to its present position.",
+    "image": "assets/images/neptune.png"
+  }
+]
