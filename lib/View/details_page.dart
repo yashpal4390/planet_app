@@ -14,7 +14,7 @@ class DetailsPage extends StatefulWidget {
 
 class _DetailsPageState extends State<DetailsPage> {
   late Planet modal;
-
+  late String hero;
   @override
   void initState() {
     super.initState();
@@ -24,7 +24,9 @@ class _DetailsPageState extends State<DetailsPage> {
 
   @override
   void didChangeDependencies() {
-    modal = ModalRoute.of(context)!.settings.arguments as Planet;
+    final List args = ModalRoute.of(context)!.settings.arguments as List;
+    modal = args[0];
+    hero = args[1];
     super.didChangeDependencies();
   }
 
@@ -102,8 +104,11 @@ class _DetailsPageState extends State<DetailsPage> {
                         end: 2 * pi,
                       ),
                       duration: const Duration(seconds: 16),
-                      child: Image.asset(
-                        modal.image ?? "",
+                      child: Hero(
+                        tag: hero,
+                        child: Image.asset(
+                          modal.image ?? "",
+                        ),
                       ),
                       builder: (context, value, widget) {
                         return Transform.rotate(
