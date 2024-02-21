@@ -23,3 +23,7 @@
 # Screen Shorts (ss):
 ![Untitled design (5)](https://github.com/yashpal4390/planet_app/assets/138545274/bb412c26-5db0-4a34-ac21-d8dd95a9885e)
 # Screen Recoding :
+
+
+https://github.com/yashpal4390/planet_app/assets/138545274/cf1a1954-e76d-44af-a133-89f9924660d8
+
